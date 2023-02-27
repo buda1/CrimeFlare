@@ -73,7 +73,7 @@ if(!empty($exec)) {
     } else {
         echo "$alert
     - Sepertinya ada masalah pada jaringan anda!\n
-        \n";
+        \n"
     }
     
 ?>
